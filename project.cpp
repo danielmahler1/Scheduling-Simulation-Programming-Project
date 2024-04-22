@@ -3,11 +3,11 @@
 /*
  * Compilation Instructions:
  * To compile this program, use the following command:
- * g++ -std=c++11 -o scheduling_simulation project.cpp
+ * g++ -std=c++11 -o project project.cpp
  * 
  * Execution Instructions:
  * To run the compiled program, execute:
- * ./scheduling_simulation
+ * ./project
  * 
  * Description:
  * This program simulates three types of CPU scheduling algorithms:
