@@ -1,10 +1,6 @@
 //Name: Daniel Mahler, Course: CISC 361-010 Operating Systems
 
-/**
- * CISC 361 Scheduling Simulation Programming Project
- * Due: May 10, 2024
- * Instructor: Anthony Okocha
- * 
+/*
  * Compilation Instructions:
  * To compile this program, use the following command:
  * g++ -std=c++11 -o scheduling_simulation project.cpp
@@ -18,10 +14,7 @@
  * 1. First-Come, First-Served (FCFS)
  * 2. Shortest Job First (SJF)
  * 3. Round Robin (RR)
- * 
- * Author: [Your Name]
- * Course: CISC 361
- */
+*/
 
 #include <iostream>
 #include <queue>
