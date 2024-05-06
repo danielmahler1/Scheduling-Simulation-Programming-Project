@@ -14,6 +14,12 @@
  * 1. First-Come, First-Served (FCFS)
  * 2. Shortest Job First (SJF)
  * 3. Round Robin (RR)
+ * 
+ * The user is prompted to choose one of the three scheduling algorithms.
+ * The program then simulates the selected scheduling algorithm by creating 100 tasks.
+ * Each task has a unique task ID, creation time, and burst time.
+ * After selecting the simulation method, the program makes each unique task, sleeping for 1 second between tasks.
+ * After 100 seconds, the program will display the tasks in the order they were processed.
 */
 
 #include <iostream>
